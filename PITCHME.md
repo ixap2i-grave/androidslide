@@ -39,3 +39,15 @@ for shinjuku-mokumoku28
 
 
 ---?image=kotlin.png&size=contain
+
+
+---
+
+- 型推論
+
+ -　val sample = "data"
+ -  val sample: String = "data"
+
+
+- Pair
+
