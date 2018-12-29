@@ -43,8 +43,8 @@ for shinjuku-mokumoku28 @ixap2i
 ---
 ##  型推論
 
- val sample = "data"
- val sample: String = "data"
+ - val sample = "data"
+ - val sample: String = "data"
 
 
 ##  Pair
