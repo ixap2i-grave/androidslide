@@ -1,9 +1,9 @@
 ### AndroidStudioの構成部品とKotlinについて
-for shinjuku-mokumoku28
+for shinjuku-mokumoku28 @ixap2i
 
 ---
 
-### 2 page
+### 何話すの？
 
 
 - 今週触ったAndroidStudioの部品についてまとめました
