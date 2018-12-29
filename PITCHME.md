@@ -50,4 +50,4 @@ for shinjuku-mokumoku28
 
 
 - Pair
-
+ - 口頭で！
