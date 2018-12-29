@@ -1,4 +1,4 @@
-### androidslide
+### AndroidStudioの構成部品とKotlinについて
 for shinjuku-mokumoku28
 
 ---
