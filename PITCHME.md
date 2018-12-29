@@ -37,7 +37,5 @@ for shinjuku-mokumoku28
 
 ---
 
-### Kotlin
-
 
 ---?image=kotlin.png&size=contain
