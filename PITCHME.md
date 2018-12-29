@@ -42,12 +42,11 @@ for shinjuku-mokumoku28
 
 
 ---
-
-- 型推論
+##  型推論
 
  val sample = "data"
  val sample: String = "data"
 
 
-- Pair
+##  Pair
  口頭で！
