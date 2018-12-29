@@ -35,7 +35,6 @@ for shinjuku-mokumoku28
 があり、viewのidから入力した文字列などを受け取る
 
 
----
 
 
 ---?image=kotlin.png&size=contain
