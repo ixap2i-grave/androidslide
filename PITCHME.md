@@ -45,9 +45,9 @@ for shinjuku-mokumoku28
 
 - 型推論
 
- -　val sample = "data"
- -  val sample: String = "data"
+ val sample = "data"
+ val sample: String = "data"
 
 
 - Pair
- - 口頭で！
+ 口頭で！
