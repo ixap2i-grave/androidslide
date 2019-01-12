@@ -1,6 +1,16 @@
-### Firebase DEMO App
+### Firebaseのデモを動かそうとして空回りした話
 
 for shinjuku-mokumoku28 @ixap2i
+
+--- 
+
+### だれ？
+@size[1em](ixap2i - yama)
+
+@size[0.8em](メドケアというヘルステック系のスタートアップで働いています)
+
+
+@size[0.8em](もともとrails周りを触っていて、フレームワーク依存しない・スクリプト言語に依存しない技術力を身に付けたくて転職しました。)
 
 ---
 
@@ -35,7 +45,7 @@ for shinjuku-mokumoku28 @ixap2i
 
 ### Depricated😇
 
-@size[0.8em](安易にcloneしたリポジトリを動かしてみようとしたらDDeprecarted(古いデモ)で動かそうと四苦八苦する)
+@size[0.8em](安易にcloneしたリポジトリを動かしてみようとしたらDeprecartedで動かそうと頑張ってしまった)
 @size[0.8em](公式にクイックスタートのデモがあったが、やりたい事のリポジトリを見つけるのに時間がかかった)
 
 
@@ -58,3 +68,12 @@ for shinjuku-mokumoku28 @ixap2i
 @size[0.8em](先にFirebaseプロジェクト内のドキュメントを参照していれば苦労はしなかった…)
 
 @size[0.8em](手よりも目を動かした方がいい時もある😇)
+
+
+--- 
+
+### 続き
+
+@size[0.8em](https://github.com/ixap2i/FirebaseChatAppで頑張って続きを書きます😇)
+
+@size[0.8em](だいぶ手探り感あったので、次は余裕を持ってドキュメントの読み込みなどしながらコード書きたいです)
