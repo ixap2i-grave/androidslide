@@ -1,16 +1,15 @@
-### AndroidStudioの構成部品とKotlinについて
+### Firebase DEMO App
+
 for shinjuku-mokumoku28 @ixap2i
 
 ---
 
 ### 何話すの？
 
+- Firebaseのデモを触っていて全然再現ができなかった話
+- 公式のGithubを読んでいてもわからないことは往往にしてある😇
 
-- 今週触ったAndroidStudioの部品についてまとめました
-- Kotlinのいいと思ったところも紹介します
 
----?image=android_dir.png&size=contain
----?image=android_mark.png&size=contain
 
 ---
 
