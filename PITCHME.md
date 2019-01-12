@@ -35,9 +35,7 @@ for shinjuku-mokumoku28 @ixap2i
 
 ### Depricated😇
 
-@size[0.8em](安易にcloneしたリポジトリを動かしてみようとしたら古いデモで
-依存関係に苦しめられる)
-
+@size[0.8em](安易にcloneしたリポジトリを動かしてみようとしたらDDeprecarted(古いデモ)で動かそうと四苦八苦する)
 @size[0.8em](公式にクイックスタートのデモがあったが、やりたい事のリポジトリを見つけるのに時間がかかった)
 
 
@@ -51,7 +49,7 @@ for shinjuku-mokumoku28 @ixap2i
 
 @size[0.8em](AndroidStudioはTools -> Firebaseからアカウントと同期してアプリのセットアップができますが、IDEから始めるTutorialは記載されているメソッド自体も古く、公式のドキュメントを見てtokenの作成を行いました。)
 
-![本日の成果？](token.ong)
+![本日の成果？](token.png)
 ---
 
 
