@@ -6,45 +6,57 @@ for shinjuku-mokumoku28 @ixap2i
 
 ### 何話すの？
 
-- Firebaseのデモを触っていて全然再現ができなかった話
-- 公式のGithubを読んでいてもわからないことは往往にしてある😇
+
+@size[0.8em](Firebaseのデモを触っていて全然再現ができなかった話)
+
+@size[0.8em](公式のGithubを読んでいてもわからないことは往往にしてある😇)
+
+---
+
+### 背景
+@size[0.8em](ZOZOの中の方の記事を拝見して、「やっぱFirebaseいけてるやん…」という漠然とした理由から)
+
+@size[0.8em](https://qiita.com/tomohito_takahashi/items/fea4a931ad1734585d1c)
+
+
+@size[0.8em](とにかくなんでもいいからAndroidベースで何か作りたかった)
+
+
+---
+
+### 使用環境
+
+@size[0.8em](AndroidStudio - API28 :Android9.0(Pie))
+
+@size[0.8em](Firebase Messaging)
+
+
+---
+
+### Depricated😇
+
+@size[0.8em](安易にcloneしたリポジトリを動かしてみようとしたら古いデモで
+依存関係に苦しめられる)
+
+@size[0.8em](公式にクイックスタートのデモがあったが、やりたい事のリポジトリを見つけるのに時間がかかった)
 
 
 
 ---
 
-### Model
 
- - MainActivityはAndroidアプリを構成する最も基本的なクラス
- -  main関数のように他の関数を呼び出す振る舞いをする
+### できた事
 
- - 致命的なエラーでない限り、途中で例外が発生しても処理は終了せず、
-後続の処理が続いていく性質がある。(UX向上のため)
+@size[0.8em](結局1からプロジェクトをスタートし、FirebaseのインスタンスIDを取得して環境構築しました)
 
+@size[0.8em](AndroidStudioはTools -> Firebaseからアカウントと同期してアプリのセットアップができますが、IDEから始めるTutorialは記載されているメソッド自体も古く、公式のドキュメントを見てtokenの作成を行いました。)
 
- - データはアクティビティの変化で失われる事はない
-
+![本日の成果？](token.ong)
 ---
 
-### View
 
- - xmlでマークアップしていく
- -  android:id="@+id/user_input_text"など特有のprefix
+### 反省点
 
-があり、viewのidから入力した文字列などを受け取る
+@size[0.8em](先にFirebaseプロジェクト内のドキュメントを参照していれば苦労はしなかった…)
 
-
-
-
----?image=kotlin.png&size=contain
-
-
----
-##  型推論
-
- - val sample = "data"
- - val sample: String = "data"
-
-
-##  Pair
- 口頭で！
+@size[0.8em](手よりも目を動かした方がいい時もある😇)
